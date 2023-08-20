@@ -17,6 +17,5 @@ public class Main {
         book1.setPublicationYear(1900);
         System.out.println("Год переиздания: " + book1.getPublicationYear());
 
-
     }
 }
